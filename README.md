@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm rzuanindy</h1>
-<h3 align="center">Mahasiswa from kontollla</h3>
+<h3 align="center">Mahasiswa from Indonesia</h3>
 
 
 <h3 align="left">Connect with me:</h3>
